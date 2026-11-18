@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Gamal Mohamed 👋
 
-<!--
-**GamalMo7amed/GamalMo7amed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | .NET Backend Developer
 
-Here are some ideas to get you started:
+I build scalable and maintainable backend applications using Microsoft technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Languages:** C#, SQL, JavaScript
+- **Backend:** ASP.NET Core, MVC, Web API
+- **ORM:** Entity Framework Core, LINQ
+- **Database:** SQL Server
+- **Messaging:** RabbitMQ
+- **Architecture:** SOLID, Clean Architecture, Design Patterns, Microservices
+- **Tools:** Git, GitHub, Azure DevOps, Microsoft Azure
+
+### 🚀 Featured Projects
+
+- E-Commerce Marketplace – ASP.NET Core, EF Core, Microsoft Partner Center.
+- RabbitMQ Messaging System – Publisher, Consumer, Exchanges, Queues, DLQ.
+- Sales Dashboard – ASP.NET Core MVC, SQL Server, Chart.js.
+
+### 📚 Currently Learning
+
+- Microservices
+- Distributed Systems
+- System Design
+- Advanced .NET
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/GamalMo7amed
+- LinkedIn: Add your LinkedIn URL here
+
