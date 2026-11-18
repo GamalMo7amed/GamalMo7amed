@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="Gamal Mohamed - .NET Backend Developer" />
+</div>
 # Hi, I'm Gamal Mohamed 👋
 
 ### Software Engineer | .NET Backend Developer
