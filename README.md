@@ -30,5 +30,5 @@ I build scalable and maintainable backend applications using Microsoft technolog
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/GamalMo7amed
-- LinkedIn:https://www.linkedin.com/in/gamal-mohamed-12004b287
+- LinkedIn: www.linkedin.com/in/gamal-mo7amed
 
